@@ -1,10 +1,10 @@
 {
-  "name": "nest.js-crud-mongo-heroku",
+  "name": "nest.js-crud-mongo",
   "version": "0.0.1",
-  "description": "projeto crud em node.js com mongoose e deploy no Heroku",
+  "description": "projeto crud em node.js com mongoose",
   "author": "Bianca Moraes",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
